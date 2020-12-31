@@ -29,7 +29,7 @@ SECRET_KEY = 'm#f(ice^2wz0y+)-ljg)4z$u1=1ta6ja*i9b*c5v3w+iy-^w^u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*','saikiran007.pythonanywhere.com']
 
 
 # Application definition
